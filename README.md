@@ -70,7 +70,7 @@ This project implements a high-performance **LRU (Least Recently Used) Cache Sys
 ## 📸 Application Screenshots
 
 ### 1. Dashboard - Overview
-![Dashboard Screenshot 1](screenshots/1.png)
+![Dashboard Screenshot 1](Advanced%20LRU%20Cache%20System%20ScreenShots/1.png)
 
 **Features Shown:**
 - **Statistics Cards**: Displays real-time metrics including:
@@ -86,7 +86,7 @@ This project implements a high-performance **LRU (Least Recently Used) Cache Sys
 ---
 
 ### 2. Dashboard - Charts & Analytics
-![Dashboard Screenshot 2](screenshots/2.png)
+![Dashboard Screenshot 2](Advanced%20LRU%20Cache%20System%20ScreenShots/2.png)
 
 **Features Shown:**
 - **Hit vs Miss Pie Chart**: Visual representation of cache efficiency
@@ -110,7 +110,7 @@ This project implements a high-performance **LRU (Least Recently Used) Cache Sys
 ---
 
 ### 3. Cache Explorer - Browse & Manage
-![Cache Explorer Screenshot](screenshots/3.png)
+![Cache Explorer Screenshot](Advanced%20LRU%20Cache%20System%20ScreenShots/3.png)
 
 **Features Shown:**
 - **Search Functionality**: Filter cache entries by key or value
@@ -135,7 +135,7 @@ This project implements a high-performance **LRU (Least Recently Used) Cache Sys
 ---
 
 ### 4. Add Key - Create Cache Entries
-![Add Key Screenshot](screenshots/4.png)
+![Add Key Screenshot](Advanced%20LRU%20Cache%20System%20ScreenShots/4.png)
 
 **Features Shown:**
 - **Key Input**: Enter unique cache key (e.g., `user:1001`, `session:abc`)
@@ -167,7 +167,7 @@ This project implements a high-performance **LRU (Least Recently Used) Cache Sys
 ---
 
 ### 5. Settings - Cache Configuration
-![Settings Screenshot 1](screenshots/5.png)
+![Settings Screenshot 1](Advanced%20LRU%20Cache%20System%20ScreenShots/5.png)
 
 **Features Shown:**
 - **Cache Information**: 
@@ -190,7 +190,7 @@ This project implements a high-performance **LRU (Least Recently Used) Cache Sys
 ---
 
 ### 6. Settings - Advanced Operations
-![Settings Screenshot 2](screenshots/6.png)
+![Settings Screenshot 2](Advanced%20LRU%20Cache%20System%20ScreenShots/6.png)
 
 **Features Shown:**
 - **Clear Entire Cache**: 
@@ -282,7 +282,7 @@ Advanced LRU Cache System/
 │   ├── tailwind.config.js        # Tailwind configuration
 │   └── README.md                 # Frontend documentation
 │
-├── screenshots/                  # Application screenshots
+├── Advanced LRU Cache System ScreenShots/  # Application screenshots
 │   ├── 1.png                     # Dashboard stats
 │   ├── 2.png                     # Dashboard charts
 │   ├── 3.png                     # Cache Explorer
@@ -572,15 +572,6 @@ This project is open-source and available under the MIT License.
 - TailwindCSS for the utility-first CSS framework
 - Recharts for beautiful data visualizations
 - All open-source contributors who made this project possible
-
----
-
-## 📞 Support
-
-If you have any questions or issues, please:
-1. Check the [Issues](https://github.com/buthuruvenkatareddy/Advanced-LRU-Cache-System/issues) page
-2. Create a new issue with detailed information
-3. Contact the author through GitHub
 
 ---
 
